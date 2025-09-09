@@ -43,7 +43,11 @@ My night time routine includes:
 
 [Alexander Hohlov][1]
 
+![Alexander Hohlov](img/alex.png)
+
 [Roberto Ierusalimschy][2]
+
+![Roberto Ierusalimschy](img/rob.png)
 
 # MUSHROOOOOOOOM!
 ![MUSHROOOOOOOOM!](img/mush.png)
