@@ -44,3 +44,6 @@ My night time routine includes:
 [Alexander Hohlov][1]
 
 [Roberto Ierusalimschy][2]
+
+# MUSHROOOOOOOOM!
+![MUSHROOOOOOOOM!](img/mush.png)
