@@ -23,3 +23,9 @@ My night time routine includes:
 
 ## My Moto
 *It is the thrill of the hunt that matters, not the outcome. *
+
+## Favorite Quotes
+
+"**Life** is like a box of **chocolates**, you never know what you're going to get. " *-Forest Gump*
+
+"I **see** you. I **feel** you. I **sense** you. And you don't even know, until it is too late, and I reveal myself. Then you're **mine**..." *-My fictional character. *
