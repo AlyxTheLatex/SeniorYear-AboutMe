@@ -4,6 +4,9 @@
 ## Summary
 Helloooo! I am Alyx/A1yx (This is my online surname. ), I love to do everything tech! I work at a Dairy Queen at my current time of writing this and take classes at SICTC! I usually show my online persona as a robotic version of a species of dragon called a nardoragon. 
 
+[1]: https://lib.haxe.org/u/haxeflixel
+[2]: https://en.wikipedia.org/wiki/Roberto_Ierusalimschy
+
 Hobbies
 - Music Composition (FL Studio)
 - Digital Art (Ibis)
@@ -29,3 +32,15 @@ My night time routine includes:
 "**Life** is like a box of **chocolates**, you never know what you're going to get. " *-Forest Gump*
 
 "I **see** you. I **feel** you. I **sense** you. And you don't even know, until it is too late, and I reveal myself. Then you're **mine**..." *-My fictional character. *
+
+## My Favorite Websites
+
+[Mosh](https://moshpro.app/lite) - Used for shader effects on pictures and stuff, very cewl!
+
+[Gumroad](https://gumroad.com) - One of the **BEST** places to get assets for Unity and Blender!
+
+## Persons of Interest
+
+[Alexander Hohlov][1]
+
+[Roberto Ierusalimschy][2]
