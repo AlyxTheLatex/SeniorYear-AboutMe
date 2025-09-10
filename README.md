@@ -51,3 +51,11 @@ My night time routine includes:
 
 # MUSHROOOOOOOOM!
 ![MUSHROOOOOOOOM!](img/mush.png)
+
+## CS Terms
+|Terms|Definitions|My Meaning|
+|:-|:----:|-:|
+|Vivid|Powerful, intensive color; Clear precise language.|Foggy or hard to comprehend or remember.|
+|Oriflamme|A knight's battle standard.|To keep one's stance.|
+|Eccentric|Of unvonventional and slightly strange character.|Very boastful emotions and sense of self.|
+|Supine|Lying face upward; falling to act.|To be of positivity.|
